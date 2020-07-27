@@ -2,7 +2,7 @@
 <aiml version="2.0">
 <category>
     <pattern>*</pattern>
-    <template> Helo I am here to advise you on your career path! Which of these seem interesting to you?
+    <template> Hello I am here to advise you on your career path! Which of these seem interesting to you?
         <button>
             <text>I like being able to look at a project from a technical standpoint.</text>
             <postback>Technical</postback>
@@ -49,7 +49,7 @@
     <pattern>highlevel</pattern>
     <template>Gotcha! Well let's see if we can find out more! What do you think best describes how you work with others?
         <button>
-            <text>I enjoy being able to plan and coordinate efforts so that don't have any bumps while we develop.</text>
+            <text>I enjoy being able to plan and coordinate efforts so that others don't have any bumps while we develop.</text>
             <postback>Software Project Manager</postback>
         </button>
         <button>
